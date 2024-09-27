@@ -1,3 +1,26 @@
+## simple_actions (jazzy) - 0.4.0-1
+
+The packages in the `simple_actions` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy simple_actions --override-release-repository-push-url git@github.com:revyos-ros/simple_actions-release.git` on `Fri, 27 Sep 2024 06:41:06 -0000`
+
+The `simple_actions` package was released.
+
+Version of package(s) in repository `simple_actions`:
+
+- upstream repository: https://github.com/DLu/simple_actions.git
+- release repository: https://github.com/revyos-ros/simple_actions-release.git
+- rosdistro version: `0.4.0-1`
+- old version: `0.3.0-3`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## simple_actions (humble) - 0.4.0-1
 
 The packages in the `simple_actions` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble simple_actions --override-release-repository-push-url git@github.com:revyos-ros/simple_actions-release.git` on `Mon, 23 Sep 2024 04:54:22 -0000`
